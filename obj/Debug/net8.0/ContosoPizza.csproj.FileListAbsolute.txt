@@ -31,3 +31,16 @@ C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\obj\Debug\net8.0\Cont
 C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\obj\Debug\net8.0\ContosoPizza.genruntimeconfig.cache
 C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\obj\Debug\net8.0\ref\ContosoPizza.dll
 C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\obj\Debug\net8.0\ContosoPizza.sourcelink.json
+C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\Namotion.Reflection.dll
+C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\NJsonSchema.dll
+C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\NJsonSchema.Annotations.dll
+C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\NJsonSchema.NewtonsoftJson.dll
+C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\NJsonSchema.Yaml.dll
+C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\NSwag.Annotations.dll
+C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\NSwag.AspNetCore.dll
+C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\NSwag.Core.dll
+C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\NSwag.Core.Yaml.dll
+C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\NSwag.Generation.dll
+C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\NSwag.Generation.AspNetCore.dll
+C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\YamlDotNet.dll
