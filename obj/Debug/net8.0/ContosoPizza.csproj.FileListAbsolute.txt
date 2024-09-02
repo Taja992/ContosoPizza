@@ -44,3 +44,6 @@ C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\NSwa
 C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\NSwag.Generation.dll
 C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\NSwag.Generation.AspNetCore.dll
 C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\pizza-app\package-lock.json
+C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\pizza-app\package.json
+C:\Users\Brandon\Desktop\School\RiderProjects\ContosoPizza\bin\Debug\net8.0\pizza-app\public\manifest.json

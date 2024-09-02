@@ -11,8 +11,8 @@ public static class PizzaServices
     {
         Pizzas = new List<Pizza>
         {
-            new Pizza { Id = 1, Name = "Classic Italian", IsGlutenFree = false },
-            new Pizza { Id = 2, Name = "Veggie", IsGlutenFree = true }
+            new Pizza { Id = 1, Name = "Classic Italian", IsGlutenFree = false, Price = 10 },
+            new Pizza { Id = 2, Name = "Veggie", IsGlutenFree = true, Price = 12 }
         };
     }
 
