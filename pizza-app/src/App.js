@@ -1,4 +1,3 @@
-fetch-display-products-react
 import React from 'react';
 import Pizzas from './Pizzas';
 
