@@ -2,6 +2,8 @@
 
 namespace ContosoPizza.Models;
 
+//Example branch
+
 public class Pizza
 {
     public int Id { get; set; }
